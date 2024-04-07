@@ -13,7 +13,8 @@ I am passionate about leveraging the latest technologies and innovations to crea
 - ⚡ Fun fact: ...
 
 -->
-
 <p>
+  
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/hazanben/)
+
 </p>
