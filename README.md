@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Ben Hazan
+
+I am passionate about leveraging the latest technologies and innovations to create immersive and engaging experiences that enhance value and impact.
 
 <!--
-**ben-hazan/ben-hazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+<p>
+[<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/hazanben/)
+</p>
