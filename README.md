@@ -16,6 +16,7 @@ I am passionate about leveraging the latest technologies and innovations to crea
 [<img src="https://img.shields.io/badge/Email-%EA4335E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:hazanb@gmail.com)
 
 </p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools
